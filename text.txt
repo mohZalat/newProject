@@ -1,10 +1,5 @@
-hi
-<<<<<<< HEAD
-lik``` 
+HI
+HEAD
+likE 
 dsssislike
 like
-=======
-hi
-
-dislike
->>>>>>> 5f61b00692fd73470d916dd8755aa17f4ec1a761
